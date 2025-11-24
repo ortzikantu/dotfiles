@@ -4,9 +4,8 @@ This is my personal dotfiles repository, which only contains some configurations
 
 ### Screenshot：
 
-<center>
-    <img src="screenshot/screenshot1.png">
-</center>
+![](https://github.com/ortzikantu/dotfiles/raw/trunk/screenshot/screenshot1.png)
+
 
 ### List：
 
